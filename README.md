@@ -2,7 +2,7 @@
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/chetna_dixit)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
 
 [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
