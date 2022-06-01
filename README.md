@@ -24,9 +24,9 @@ I am Very passionate about Blockchain Developer , my future goal is to complete 
 - 👩‍💻 Preparing for Masters ( MCA )
 - 🚀 I’m currently learning ReactJs on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write short notes regarding cybersecurity and ProgrammingProgrammin [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
+- 📝 I regulary write short notes regarding cybersecurity and Programming on [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
 - 📫 How to reach me: kamal.swami.22062001@gmail.com;
-- 📝 [Inbox Me](https://t.me/).
+- 📝 [Inbox Me](https://t.me/LetsTalkSomeCode).
 
 </br>
 
