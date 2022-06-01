@@ -20,8 +20,8 @@ I am Very passionate about Blockchain Developer , my future goal is to complete 
 
 **Talking about Personal Stuffs:**
 
-- 💪 I’m currently working on something cool;
-- 👩‍💻 Preparing for Masters ( MCA )
+- 💪 I’m currently working as Game Tester a real "Play to Earn" Job and looking for full time Blockchain Developer opporunity;
+- 👩‍💻 Persuing Masters ( MCA )
 - 🚀 I’m currently learning ReactJs on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write short notes regarding cybersecurity and Programming on [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
@@ -36,7 +36,6 @@ I am Very passionate about Blockchain Developer , my future goal is to complete 
 Python       3 hrs 29 mins    	⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜ 54%   
 Javascript   1 hrs  4 mins      ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 17%
 TypeScript         30 mins      ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8%    
-Groovy             27 mins      ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 7%
 Blockchain         57 mins      ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜      15%
 ```
 <!--END_SECTION:waka-->
