@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <a href="https://chetna.cf" target="_blank">Kamal Swami</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there 👋 I'm <target="_blank">Kamal Swami</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](/)
@@ -9,13 +9,13 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=swamikamal)
 
-I am a Student currently doing Computer science and a writer too. I love programming, Cybersecurity, writing, speaking and Drawing.
+I am a Student currently doing Computer science and a writer too. I love programming, Blockchain Devlopment, Cybersecurity, and writing as well.
 
 As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
+I am Very passionate about Blockchain Developer , my future goal is to complete be a Blockchain Developer.
 
-<img align="right" alt="GIF" src="https://github.com/chetnadixit/chetnadixit/blob/main/kitty.gif" width="408" height="318" />
+<img align="right" alt="GIF" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
@@ -44,7 +44,7 @@ Blockchain         57 mins      ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜      15%
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chetnadixit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetnadixit&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swamikamal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamikamal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
