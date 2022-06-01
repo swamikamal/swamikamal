@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <target="_blank">Kamal Swami</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there 👋 I'm <a href="https://therecord.media/wp-content/uploads/2021/10/hoodie-hacker.jpg" target="_blank">Kamal Swami</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](/)
