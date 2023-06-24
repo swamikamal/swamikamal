@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
 
-## Glad to see you here! &nbsp; ! [Visitor Count] (https://profile-counter.glitch.me/swamikamal/count.svg)
+## Glad to see you here! &nbsp; ! [Visitor Count] <a href="https://profile-counter.glitch.me/swamikamal/count.svg"><img src="https://profile-counter.glitch.me/swamikamal/count.svg" /> </a>
 
 
 <a href="https://wakatime.com/@92ae13ba-5b4f-439e-a201-828e489bab90"><img src="https://wakatime.com/badge/user/92ae13ba-5b4f-439e-a201-828e489bab90.svg" alt="Total time coded since Jun 24 2023" /></a>
