@@ -10,7 +10,7 @@
 ## Glad to see you here! &nbsp; ! [Visitor Count] (https://profile-counter.glitch.me/swamikamal/count.svg)
 
 
-
+<a href="https://wakatime.com/@92ae13ba-5b4f-439e-a201-828e489bab90"><img src="https://wakatime.com/badge/user/92ae13ba-5b4f-439e-a201-828e489bab90.svg" alt="Total time coded since Jun 24 2023" /></a>
 
 
 
