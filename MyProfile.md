@@ -1,5 +1,6 @@
 # Hi there 👋 I'm [Kamal Swami](https://therecord.media/wp-content/uploads/2021/10/hoodie-hacker.jpg)
-
+## Glad to see you here! &nbsp; ! [Visitor Count] <a href="https://profile-counter.glitch.me/swamikamal/count.svg"><img src="https://profile-counter.glitch.me/swamikamal/count.svg" /> </a>
+<a href="https://wakatime.com/@92ae13ba-5b4f-439e-a201-828e489bab90"><img src="https://wakatime.com/badge/user/92ae13ba-5b4f-439e-a201-828e489bab90.svg" alt="Total time coded since Jun 24 2023" /></a>
 I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
 
 As a programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
