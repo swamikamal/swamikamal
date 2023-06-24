@@ -1,6 +1,5 @@
 # Hi there 👋 I'm [Kamal Swami](https://therecord.media/wp-content/uploads/2021/10/hoodie-hacker.jpg)
-## Glad to see you here! &nbsp; ! [Visitor Count] <a href="https://profile-counter.glitch.me/swamikamal/count.svg"><img src="https://profile-counter.glitch.me/swamikamal/count.svg" /> </a>
-<a href="https://wakatime.com/@92ae13ba-5b4f-439e-a201-828e489bab90"><img src="https://wakatime.com/badge/user/92ae13ba-5b4f-439e-a201-828e489bab90.svg" alt="Total time coded since Jun 24 2023" /></a>
+# Glad to see you here! &nbsp; Count : <a href="https://profile-counter.glitch.me/swamikamal/count.svg"><img src="https://profile-counter.glitch.me/swamikamal/count.svg" /> </a>
 I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
 
 As a programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
@@ -46,7 +45,9 @@ I am very passionate about blockchain development, my future goal is to become a
 [![Chai Badge](https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=mocha&logoColor=white)](https://www.chaijs.com/)
 
 ## My GitHub stats
-
+<!-- This is a comment 
+<a href="https://wakatime.com/@92ae13ba-5b4f-439e-a201-828e489bab90"><img src="https://wakatime.com/badge/user/92ae13ba-5b4f-439e-a201-828e489bab90.svg" alt="Total time coded since Jun 24 2023" /></a> -->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@92ae13ba-5b4f-439e-a201-828e489bab90)](https://github.com/anuraghazra/github-readme-stats)
 [![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=swamikamal&show_icons=true&theme=radical)](https://github.com/swamikamal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swamikamal&layout=compact&theme=radical)](https://github.com/swamikamal/github-readme-stats)
 
