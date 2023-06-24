@@ -20,9 +20,10 @@ I am very passionate about blockchain development, my future goal is to become a
 
 ## Connect with me
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.web3samaj.com/home)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Oxkamal)
 [![Discord Badge](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square)](https://discord.gg/pM6GF6PaJF)
+[![Discord Badge](https://img.shields.io/discord/805879201961607178?color=green&label=@WEB3SAMAJ&logo=Discord&style=flat-square)](https://discord.gg/xdV9rRbRpc)
 
 ## My skills
 
