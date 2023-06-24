@@ -7,7 +7,8 @@
 [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
 
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=swamikamal)
+## Glad to see you here! &nbsp; ![Profile views](https://gpvc.arturio.dev/swamikamal)
+
 
 I am a Student currently doing Computer science and a professional Gamer too. I love programming, Blockchain Devlopment, Cybersecurity, and writing as well.
 
