@@ -41,7 +41,7 @@ I am very passionate about blockchain development, my future goal is to become a
 [![ZKP Badge](https://img.shields.io/badge/-ZKP-F0F0F0?style=flat-square&logo=z.cash&logoColor=black)](https://z.cash/technology/zksnarks/)
 [![Blockchain Badge](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)](https://www.blockchain.com/)
 [![Truffle Badge](https://img.shields.io/badge/-Truffle-DD602A?style=flat-square&logo=truffle-suite&logoColor=white)](https://www.trufflesuite.com/)
-[![Foundary Badge](https://img.shields.io/badge/-Foundary-FF6600?style=flat-square&logo=palantir-technologies&logoColor=white)](https://foundry.palantir.com/)
+[![Foundary Badge](https://img.shields.io/badge/-Foundary-FF6600?style=flat-square&logo=palantir-technologies&logoColor=white)](https://book.getfoundry.sh/)
 [![Chai Badge](https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=mocha&logoColor=white)](https://www.chaijs.com/)
 
 ## My GitHub stats
