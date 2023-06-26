@@ -1,5 +1,4 @@
-# Hi there 👋 I'm [Kamal Swami](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
-I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
+# Hi there 👋 I'm [Kamal Swami](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
 
 As a programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
