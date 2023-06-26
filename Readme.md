@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Kamal Swami](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)
+# Hi there 👋 I'm [Kamal Swami](https://tenor.com/bmSYT.gif)
 
 I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
 
