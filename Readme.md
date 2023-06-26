@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Kamal Swami](https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553)
+# Hi there 👋 I'm [Kamal Swami](https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif)
 
 I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
 
