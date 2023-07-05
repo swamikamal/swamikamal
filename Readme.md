@@ -11,8 +11,8 @@ I am very passionate about blockchain development, my future goal is to become a
 **Talking about personal stuffs:**
 
 - 🔭 I’m currently working as a game tester, a real "Play to Earn" job and looking for full time blockchain development opportunity;
-- 👩‍💻 Pursuing Masters (MCA);
-- 🚀 I’m currently learning ReactJS on [FreeCodeCamp](https://freecodecamp.com/);
+- 👩‍💻 Completed Masters (MCA) on 04/07/2023;
+- 🚀 I’m currently learning Solidity on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regularly write short notes regarding cybersecurity and programming on [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
 - 📫 How to reach me: codebykamal@gmail.com;
