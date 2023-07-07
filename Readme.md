@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Kamal Swami](https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif)
 
-I'm a student currently doing Computer Science and a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
+I recently completed my Master's in Computer Application and am a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
 
 As a programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
