@@ -51,7 +51,7 @@ I am very passionate about blockchain development, my future goal is to become a
 ## My GitHub stats
 <!-- This is a comment 
 <a href="https://wakatime.com/@92ae13ba-5b4f-439e-a201-828e489bab90"><img src="https://wakatime.com/badge/user/92ae13ba-5b4f-439e-a201-828e489bab90.svg" alt="Total time coded since Jun 24 2023" /></a> -->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@92ae13ba-5b4f-439e-a201-828e489bab90)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@92ae13ba-5b4f-439e-a201-828e489bab90)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=swamikamal&show_icons=true&theme=radical)](https://github.com/swamikamal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swamikamal&layout=compact&theme=radical)](https://github.com/swamikamal/github-readme-stats)
 
