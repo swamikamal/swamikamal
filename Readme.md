@@ -10,7 +10,7 @@ I am very passionate about blockchain development, my future goal is to become a
 
 **Talking about personal stuffs:**
 
-- 🔭 I’m currently working as a Senior QA tester, a real "Play to Earn" job and looking for full time blockchain development opportunity;
+- 🔭 I’m currently working as a Senior QA Tester, a real "Play to Earn" job and looking for full time blockchain development opportunity;
 - 👩‍💻 Completed Masters (MCA) on 04/07/2023;
 - 🚀 I’m currently learning Solidity on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
