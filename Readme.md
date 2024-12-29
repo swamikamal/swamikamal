@@ -1,25 +1,27 @@
-# Hi there 👋 I'm [Kamal Swami](https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif)
+# Hey there 👋 I'm [Kamal Swami](https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif)  
 
-I recently completed my Master's in Computer Application and am a professional gamer too. I love programming, blockchain development, cybersecurity, and writing as well.
+I’m a **Senior QA Engineer** with 3+ years of experience ensuring that games and software deliver nothing short of excellence. Whether it’s **manual testing**, **automation**, or meeting **Microsoft Store compliance standards**, I’m all about raising the bar on quality.  
 
-As a programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+My journey started with a **Master’s in Computer Applications**, and along the way, I’ve worked on some incredible projects, including **AAA gaming titles**. I thrive on making sure games are accessible, immersive, and, most importantly, bug-free. My dedication to quality has also extended to **Desktop, Mobile(Android & iOS), Web. and Console(XB,PS&Switch) applications**  
 
-I am very passionate about blockchain development, my future goal is to become a blockchain developer.
+<img align="right" alt="GIF" src="https://stackify.com/wp-content/uploads/2018/01/word-image-3.gif" width="408" height="318" />  
 
-<img align="right" alt="GIF" src="https://stackify.com/wp-content/uploads/2018/01/word-image-3.gif" width="408" height="318" />
+### A little more about me:  
+- 🎮 **QA in gaming and software** is my thing—breaking stuff so users don’t have to.  
+- 🤖 I’ve built automated test frameworks using tools like **Selenium**, **Appium**, and **Playwright**.  
+- 🎯 Trained in **game accessibility** standards—because everyone deserves to enjoy the fun.  
+- 🛠 Skilled at balancing **manual precision** with **automation speed**.  
+- 🚀 I’m currently learning blockchain and exploring how QA can help shape the future of Web3.  
 
-**Talking about personal stuffs:**
+### On a personal note:  
+- ✨ I’m a gamer at heart, turning my passion into a profession.  
+- ✍️ Love sharing QA tips and tech notes on [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM).  
+- 💬 Always happy to chat about testing, automation, or just good gaming stories.  
+- 📫 Hit me up: **codebykamal@gmail.com**  
+- 📝 [DM me on Telegram](https://t.me/Oxkamal).  
 
-- 🔭 I’m currently working as a Senior QA Tester, a real "Play to Earn" job and looking for full time blockchain development opportunity;
-- 👩‍💻 Completed Masters (MCA) on 04/07/2023;
-- 🚀 I’m currently learning Solidity on [FreeCodeCamp](https://freecodecamp.com/);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regularly write short notes regarding cybersecurity and programming on [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
-- 📫 How to reach me: codebykamal@gmail.com;
-- 📝 [Inbox me on Telegram](https://t.me/Oxkamal).
-
-# Glad to see you here! 
-### Visitors Count : <a href="https://profile-counter.glitch.me/swamikamal/count.svg"><img src="https://profile-counter.glitch.me/swamikamal/count.svg" /> </a> &nbsp; 
+# Glad you stopped by!  
+### Visitors Count: <a href="https://profile-counter.glitch.me/swamikamal/count.svg"><img src="https://profile-counter.glitch.me/swamikamal/count.svg" /></a> &nbsp; 
 
 
 ## Connect with me
@@ -55,28 +57,46 @@ I am very passionate about blockchain development, my future goal is to become a
 [![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=swamikamal&show_icons=true&theme=radical)](https://github.com/swamikamal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swamikamal&layout=compact&theme=radical)](https://github.com/swamikamal/github-readme-stats)
 
-## About me
+## About Me  
 
-In addition to my experience in the gaming/Web3 space, there are a few other aspects worth noting:
+In addition to my expertise in the gaming and Web3 spaces, here’s what sets me apart:  
 
-**Continuous Learning:** I have a strong commitment to ongoing learning and staying updated with the latest trends and advancements in the gaming and blockchain industries. I actively engage in professional development opportunities, participate in webinars and conferences, and explore new technologies and tools that can enhance my skills and expertise.
+### 🚀 **Continuous Learning**  
+I’m deeply committed to staying ahead of the curve in the ever-evolving gaming and blockchain industries. Whether it’s attending webinars, participating in conferences, or experimenting with new tools and technologies, I’m always expanding my knowledge and sharpening my skills to bring fresh ideas and innovative solutions to the table.  
 
-**Collaborative Approach:** I thrive in collaborative environments and enjoy working closely with cross-functional teams to achieve shared goals. I believe in the power of effective communication, teamwork, and knowledge sharing to drive innovation and deliver high-quality results.
+### 🤝 **Collaborative Approach**  
+I thrive in team-driven environments where creativity and collaboration lead to impactful results. Effective communication, knowledge sharing, and a shared sense of purpose are cornerstones of my work ethic, enabling me to contribute to cross-functional teams and deliver exceptional results.  
 
-**Adaptability:** The gaming/Web3 landscape is constantly evolving, and I embrace change with a flexible and adaptive mindset. I am comfortable working in dynamic environments and can quickly adapt to new technologies, platforms, and project requirements.
+### 🔄 **Adaptability**  
+Change is the only constant, especially in gaming and Web3. I embrace this reality with a flexible mindset, ready to pivot to new technologies, platforms, and challenges. Adapting quickly to dynamic environments has allowed me to consistently drive progress and innovation.  
 
-**Problem-Solving Abilities:** Throughout my career, I have developed strong problem-solving skills, allowing me to analyze complex challenges and identify practical solutions. I approach obstacles with a proactive mindset, seeking creative approaches to overcome them and drive positive outcomes.
+### 🧩 **Problem-Solving Abilities**  
+Throughout my career, I’ve honed strong analytical and problem-solving skills. Tackling challenges head-on, I find practical and creative solutions that drive success. My proactive mindset ensures I’m always prepared to navigate complex situations with confidence.  
 
-**Passion for Gaming and Web3:** I am genuinely passionate about the gaming industry and the transformative potential of Web3 technologies. This enthusiasm fuels my drive to contribute to the growth and success of both sectors and motivates me to continuously explore new opportunities and push boundaries.
+### 🎮 **Passion for Gaming and Web3**  
+Gaming is not just my career; it’s my passion. Combined with my enthusiasm for the transformative potential of Web3 technologies, this fuels my drive to explore new opportunities, contribute meaningfully, and push the boundaries of innovation in both industries.  
 
-I am also an active participant in various communities and initiatives. Here are a few highlights:
+---
 
-**Web3 Samaj Genesis Event:** I had the privilege of being one of the hosts for the Web3 Samaj Genesis Event in India. This event brought together like-minded individuals passionate about Web3 technologies to discuss and explore the potential of decentralized systems. It was an enriching experience to connect with experts, share knowledge, and contribute to the growth of the Web3 community in India.
+### My Contributions and Community Involvement  
 
-**Hackathon Achievement:** I had the opportunity to showcase my skills and problem-solving abilities by participating in a hackathon. I am proud to have won the first runner-up prize, which reflects my dedication and capability to deliver innovative solutions in a competitive environment. This experience further fueled my passion for Web3 development and strengthened my commitment to making a positive impact in this space.
+**🌐 Web3 Samaj Genesis Event**  
+As a host of the **Web3 Samaj Genesis Event in India**, I had the privilege of connecting with pioneers in the Web3 ecosystem. The event was a platform for sharing knowledge, fostering innovation, and strengthening the Web3 community in India—a truly enriching experience.  
 
-**Steer Protocol Ambassador:** As an ambassador for Steer Protocol, I actively promote and advocate for the project. I engage with the community, share knowledge about the protocol's features and benefits, and encourage adoption and participation. Being an ambassador allows me to contribute to the growth and success of a promising Web3 project while connecting with like-minded individuals in the ecosystem.
+**🏆 Hackathon Achievement**  
+I showcased my problem-solving abilities and technical expertise by participating in a competitive hackathon, where I earned the **first runner-up prize**. This milestone reaffirmed my dedication to building innovative solutions and inspired me to deepen my Web3 development journey.  
 
-**Advocate for The Graph India:** I am actively involved in The Graph India community as an advocate. I support the adoption and utilization of The Graph protocol, which provides decentralized indexing and querying for blockchain data. Through advocacy efforts, I aim to raise awareness about the protocol's capabilities and benefits, as well as foster a collaborative and supportive community of developers and users.
+**📣 Steer Protocol Ambassador**  
+As an ambassador for **Steer Protocol**, I actively advocate for its growth and adoption. By engaging with the community and sharing insights into the protocol’s features, I’m proud to contribute to the advancement of this promising Web3 project.  
 
-Overall, my combination of experience, continuous learning mindset, collaborative approach, adaptability, problem-solving abilities, and genuine passion for gaming and Web3 make me well-suited to thrive in this dynamic and innovative space. I am excited about the future possibilities and the impact we can make by leveraging cutting-edge technologies and pushing the boundaries of interactive experiences.
+**📊 Advocate for The Graph India**  
+In my role as an advocate for **The Graph India**, I help foster awareness and adoption of this decentralized indexing protocol. My efforts focus on building a collaborative developer community while promoting the protocol’s potential to transform blockchain data accessibility.  
+
+---
+
+### Why I Stand Out  
+
+With a combination of technical expertise, a continuous learning mindset, a knack for collaboration, adaptability, and a genuine passion for gaming and Web3, I bring an innovative and solution-oriented approach to every project.  
+
+The possibilities in this dynamic space excite me, and I’m driven to contribute to shaping the future of gaming and Web3 by leveraging cutting-edge technologies and creating unforgettable interactive experiences.  
+
